@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "449824100876",
+    "project_id": "fire-away-brother",
+    "storage_bucket": "fire-away-brother.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:449824100876:android:c191182c3effdf4f941429",
+        "android_client_info": {
+          "package_name": "com.green.shoot.brother.free"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD-52odZszlqNrExFyuVgETUEf2PRbL-Ac"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
